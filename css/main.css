@@ -12,8 +12,8 @@ canvas {
     margin: 4vh 4vw 4vh 4vw;
     padding: 0;
     position: absolute;
-    width: 92vw;
-    height: 92vh;
+    width: 92dvw;
+    height: 92dvh;
     z-index: 2;
 }
 
