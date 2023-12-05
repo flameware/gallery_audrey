@@ -1,0 +1,39 @@
+0.
+I've been playing with image manipulation which I call "pixel simulation"</br>with Processing language for couple of years.</br>I searched for good sample image and one day I discovered this photo - a photo taken by Yousuf Karsh. </br>
+In this website, I made 12 variations of processed image. </br>Well, please enjoy! </br>( TAP to zoom | SWIPE to navigate )
+
+1.
+Simulation of pixels on CRT monitors.
+
+2.
+Draw a continuous spiral and change thickness of the line </br>by the brightness of original image.
+
+3.
+Mapping each alphabet on the canvas by the brightness of original image.
+
+4.
+Drawing each module's bar by the brightness of original image.
+
+5.
+Scatter a lot of points on the canvas and link them by relative distances.
+
+6.
+Use a modular SVG image and change the size of module by the brightness.
+
+7.
+Put more points on the canvas & link them.
+
+8.
+Scribble on canvas randomly. </br>The thickness of the line is based on the brightness of original image.
+
+9.
+Triangle modules gives mosaic like patterns.
+
+10.
+Make modules as concentric circle - </br>each circle's thickness varies by the brightness of the original image.
+
+11.
+3 modules consist of: </br> two arcs with differenc colors and a half-rectangle.
+
+12.
+Made by a pyramid-like module. </br> Module's center point is decided by the brightness.

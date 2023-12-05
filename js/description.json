@@ -1,0 +1,42 @@
+{
+    "descriptions": [{
+        "title": "Original Image",
+        "text": "Here is the original photo -</br>A portrait of Audrey Hepburn taken by Yousuf Karsh. </br>I made 12 processed images from this original photo</br>with <a href=\"https://www.processing.org\">Processing</a> language.</br>TAP to zoom | SWIPE to navigate</br>or Use Arrow Keys"
+    }, {
+        "title": "01 : CRT",
+        "text": "This is my first try of pixel simulation.</br>Simulate rounded-rectangle pixels on CRT monitors."
+    }, {
+        "title": "02 : Spiral",
+        "text": "Draw a continuous spiral from the center of canvs</br>and change thickness of the line</br>by the brightness of original image."
+    }, {
+        "title": "03 : Alphabets",
+        "text": "Mapping alphabets on the canvas by the brightness of original image.</br>For example, M or W has much area than I or L."
+    }, {
+        "title": "04 : Bar",
+        "text": "Varying each module's bar height by the brightness of original image."
+    }, {
+        "title": "05 : Nodes & Links",
+        "text": "Scatter a lot of points on the canvas and link them by their relative distances."
+    }, {
+        "title": "06 : Donuts",
+        "text": "Use a modular SVG image and change the size of module by the brightness."
+    }, {
+        "title": "07 : Web",
+        "text": "Put more points than Node & Links (but in different manner) on the canvas & link them."
+    }, {
+        "title": "08 : Scribble",
+        "text": "Simulate random scribbles on canvas.</br>The thickness of the line is based on the brightness of original image."
+    }, {
+        "title": "09 : Triangle",
+        "text": "Divide canvas's area with modular triangles.</br>Triangle modules gives mosaic like patterns."
+    }, {
+        "title": "10 : Concentric Circles",
+        "text": "Make modules as concentric circles.</br>Each circle's thickness varies by the brightness of the original image."
+    }, {
+        "title": "11 : 3 Elements",
+        "text": "There are  just 3 kind of modules: </br>two arcs with differenc colors and a half-rectangle."
+    }, {
+        "title": "12 : Pyramid",
+        "text": "This image is made with a pyramid-like module. </br> Module's center point is decided by the brightness."
+    }]
+}
